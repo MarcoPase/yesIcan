@@ -1,3 +1,7 @@
 ceci est un test de branche
 
+<<<<<<< HEAD
 cezrfe
+=======
+test de rameau de branche 
+>>>>>>> 833e0abb20363cb5bfdd4dabd637e61a30b13c6d
